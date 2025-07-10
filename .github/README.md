@@ -1,6 +1,6 @@
 # firefox
 
-下载地址: [https://addons.mozilla.org/firefox/downloads/file/4531171/7b546b00ce1b4a5e8a4b-1.0.1.xpi](https://addons.mozilla.org/firefox/downloads/file/4531171/7b546b00ce1b4a5e8a4b-1.0.1.xpi)
+下载地址: [https://github.com/cap153/inline-translator/releases/download/1.0.3/inline-translator.xpi](https://github.com/cap153/inline-translator/releases/download/1.0.3/inline-translator.xpi)
 
 # chrome/chromium
 
