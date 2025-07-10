@@ -7,7 +7,11 @@
 },
    "action": {
       "default_popup": "src/pages/popup/index.html",
-      "default_title": "Word Translator"
+      "default_title": "Word Translator",
+   "default_icon": {
+     "16": "assets/icon16.png",
+     "48": "assets/icon48.png"
+   }
    },
    "background": {
       "scripts": ["background.js"],
@@ -31,5 +35,5 @@
    "name": "__MSG_appName__",
    "permissions": [ "storage", "contextMenus", "cookies", "tabs" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "1.0.3"
+   "version": "1.0.0"
 }
