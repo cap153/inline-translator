@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "La descrizione dell'estensione",
+      "message": "Fai doppio clic sulle parole inglesi per traduzioni inline istantanee - Visualizza le traduzioni accanto alle parole senza interrompere il flusso di lettura!"
+   },
+   "appName": {
+      "description": "Il nome dell'estensione",
+      "message": "Traduttore Inline"
+   }
+}

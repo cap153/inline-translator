@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "Mô tả của tiện ích mở rộng",
+      "message": "Nhấp đúp vào các từ tiếng Anh để dịch nội tuyến tức thì - Xem bản dịch bên cạnh các từ mà không làm gián đoạn quá trình đọc của bạn!"
+   },
+   "appName": {
+      "description": "Tên của tiện ích mở rộng",
+      "message": "Trình Dịch Nội Tuyến"
+   }
+}

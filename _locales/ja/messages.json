@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "拡張機能の説明",
+      "message": "英単語をダブルクリックして即時インライン翻訳 - 読書の流れを中断せずに単語の隣に翻訳を表示！"
+   },
+   "appName": {
+      "description": "拡張機能の名前",
+      "message": "インライン翻訳"
+   }
+}

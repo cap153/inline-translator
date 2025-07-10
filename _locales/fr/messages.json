@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "La description de l'extension",
+      "message": "Double-cliquez sur les mots anglais pour des traductions intégrées instantanées - Voyez les traductions à côté des mots sans interrompre votre flux de lecture !"
+   },
+   "appName": {
+      "description": "Le nom de l'extension",
+      "message": "Traducteur Intégré"
+   }
+}

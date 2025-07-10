@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "Die Beschreibung der Erweiterung",
+      "message": "Doppelklicken Sie auf englische Wörter für sofortige Inline-Übersetzungen - Sehen Sie Übersetzungen neben Wörtern, ohne Ihren Lesefluss zu unterbrechen!"
+   },
+   "appName": {
+      "description": "Der Name der Erweiterung",
+      "message": "Inline-Übersetzer"
+   }
+}

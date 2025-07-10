@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "Uzantının açıklaması",
+      "message": "İngilizce kelimelere çift tıklayarak anında satır içi çeviriler alın - Okuma akışınızı bozmadan kelimelerin yanında çevirileri görün!"
+   },
+   "appName": {
+      "description": "Uzantının adı",
+      "message": "Satır İçi Çevirmen"
+   }
+}

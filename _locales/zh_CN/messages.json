@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "扩展描述",
+      "message": "双击英文单词获取即时内联翻译 - 在不打断阅读流程的情况下查看单词旁边的翻译！"
+   },
+   "appName": {
+      "description": "扩展名称",
+      "message": "内联翻译"
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "확장 프로그램 설명",
+      "message": "영어 단어를 더블클릭하여 즉시 인라인 번역 - 읽기 흐름을 방해하지 않고 단어 옆에 번역을 확인하세요!"
+   },
+   "appName": {
+      "description": "확장 프로그램 이름",
+      "message": "인라인 번역기"
+   }
+}

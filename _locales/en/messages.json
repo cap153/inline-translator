@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The description of the extension",
+      "message": "Double-click English words for instant inline translations - See translations next to words without interrupting your reading flow!"
+   },
+   "appName": {
+      "description": "The name of the extension",
+      "message": "Inline Translator"
+   }
+}

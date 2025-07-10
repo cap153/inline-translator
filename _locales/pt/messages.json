@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "A descrição da extensão",
+      "message": "Clique duas vezes em palavras em inglês para traduções inline instantâneas - Veja traduções ao lado das palavras sem interromper seu fluxo de leitura!"
+   },
+   "appName": {
+      "description": "O nome da extensão",
+      "message": "Tradutor Inline"
+   }
+}

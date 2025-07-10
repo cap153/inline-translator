@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "內聯翻譯",
+    "description": "擴展名稱"
+  },
+  "appDescription": {
+    "message": "雙擊英文單詞獲取即時內聯翻譯 - 在不打斷閱讀流程的情況下查看單詞旁邊的翻譯！",
+    "description": "擴展描述"
+  }
+}

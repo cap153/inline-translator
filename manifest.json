@@ -1,0 +1,35 @@
+{
+"browser_specific_settings": {
+  "gecko": {
+    "id": "inline-translator@arst",
+    "strict_min_version": "112.0"
+  }
+},
+   "action": {
+      "default_popup": "src/pages/popup/index.html",
+      "default_title": "Word Translator"
+   },
+   "background": {
+      "scripts": ["background.js"],
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "styles/styles.css" ],
+      "js": [ "content-script.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "host_permissions": [ "https://translate.googleapis.com/*", "https://api.openai.com/*", "https://api.deepseek.com/*", "https://dashscope.aliyuncs.com/*", "https://api.anthropic.com/*", "https://openrouter.ai/*", "https://ark.cn-beijing.volces.com/*", "https://open.bigmodel.cn/*", "*://*.kaibaohe.com/*" ],
+   "icons": {
+      "128": "assets/icon128.png",
+      "16": "assets/icon16.png",
+      "48": "assets/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9WnnYR74pqxuinG8TLgu9/6J6CyJzjSG0bWzw0N4Z+PIAfdbuniLFmFKpIeMg2pi38UMWQl8K8U/DpB8F/lIG9+tXTgks/NdL66+5T22x5cVrs8nX+h94K0WoO2JWDX8T+UI9fdJmZOau4NT09VgaUtv/wiXgP09m5dGNupwAl20RBYXusBB2r8t6Po3F+WZp27TeQnvzBqVPL++87zdQtJnShNAZ5INEzlkmFpCUPwQehV9NWBdApegxyPmz7r3empnKsHG6KwsIyqhEewhX2xmmubIBJ6Ozifc+6w64CmTKJa1Ps4t599zCZuiqe//Ij6qlKK74qH4N06G10f/qQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "permissions": [ "storage", "contextMenus", "cookies", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.3"
+}
