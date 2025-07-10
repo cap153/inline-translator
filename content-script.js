@@ -117,7 +117,7 @@ async function l() {
                 }
             }
         }
-    }(), document.addEventListener("mouseup", c), document.addEventListener("dblclick", c), chrome.runtime.onMessage.addListener(((l, c, w) => {
+    }(), document.addEventListener("dblclick", c), chrome.runtime.onMessage.addListener(((l, c, w) => {
         "SETTINGS_UPDATED" === l.type ? s = l.settings : "DELETE_ALL_TRANSLATIONS" === l.type ? (e.forEach((e => {
             e && e.parentNode && e.parentNode.removeChild(e)
         })), e.clear(), n = null, a = null, o = 0, t = null) : "TRANSLATE_SELECTED_SENTENCE" === l.type ? async function(n) {
